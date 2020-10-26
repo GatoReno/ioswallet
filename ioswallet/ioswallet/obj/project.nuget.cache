@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "djZFxzObNEDizcvrm10aMer4FzFyYt0gDGdYV86RLtqwynAFSDW9LavwLEvgtEbEGPabHkYYGA1MO82aaUscNg==",
+  "success": true,
+  "projectFilePath": "/Users/dmn/repos/ioswallet/ioswallet/ioswallet/ioswallet.csproj",
+  "expectedPackageFiles": [
+    "/Users/dmn/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
